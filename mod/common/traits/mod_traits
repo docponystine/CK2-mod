@@ -6,4 +6,5 @@ Trap = {
 	same_opinion = 10
 	genrale_opinion = -5
 	ai_zeal = -25
+	inherit_chance = 25
 }
