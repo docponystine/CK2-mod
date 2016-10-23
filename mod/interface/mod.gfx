@@ -1,0 +1,9 @@
+spriteTypes = {
+	spriteType = {
+	  name = "GFX_trait_Trap
+    texturefile = "gfx/traits/placeholder.tga"
+    noOfFrames = 1
+    norefcount = yes
+    effectFile = "gfx/FX/buttonstate.lua"
+	}
+}
